@@ -1,4 +1,4 @@
-# 📝 AutoScholar
+# 📝 Research Paper Analyzer
 
 ## **🔍 Overview**
 Research papers are a valuable source of knowledge, but analyzing multiple papers manually is time-consuming. This project leverages AutoGen-based multiple AI agents to fetch, process, and summarize research papers from arXiv in parallel, reducing the effort required to extract key insights.
@@ -22,8 +22,8 @@ Research papers are a valuable source of knowledge, but analyzing multiple paper
 ## **🚀 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/AutoScholar.git
-cd AutoScholar
+git clone https://github.com/CodeWithAyush2710/Research_Paper_Analyzer.git
+cd Research_Paper_Analyzer
 ```
 ## **2️⃣ Create & Activate Virtual Environment**
 ```bash
